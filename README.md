@@ -277,11 +277,6 @@ Navigate to the project directory:
 cd data-analytics-python-lab
 ```
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 Launch Jupyter Notebook:
 
@@ -335,3 +330,8 @@ By completing this laboratory, students will gain practical experience in:
 6. Matplotlib Documentation
 7. Seaborn Documentation
 
+# Author
+
+Musavir Rehman
+
+M.Tech (Computer Science and Engineering) Islamic University of Science and Technology,Kashmir
