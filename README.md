@@ -28,11 +28,11 @@ data-analytics-python-lab/
 │
 ├── 01_Data_Loading_and_Exploration/
 ├── 02_Data_Preprocessing_and_Cleaning/
-├── 03_Data_Visualization/
+├── 03_Data_Visualization_Techniques/
 ├── 04_Statistical_Analysis/
 ├── 05_Regression_Analysis/
-├── 06_Classification/
-├── 07_Clustering/
+├── 06_Classification_Techniques/
+├── 07_Clustering_Algorithms/
 ├── 08_Dimensionality_Reduction/
 ├── 09_Time_Series_Analysis/
 ├── 10_Mini_Project/
